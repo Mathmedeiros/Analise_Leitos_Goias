@@ -6,5 +6,5 @@ A análise exploratória que será feita sobre a evolução do número de leitos
 
 
 <p align="center">
-  <https://saude.go.gov.br/images/2022/noticias/junho/fotohosp1-1.jpeg">
+  <img src="https://saude.go.gov.br/images/2022/noticias/junho/fotohosp1-1.jpeg">
 </p>
