@@ -1,4 +1,4 @@
-# Análise dos dados de leitos nos municípios de Goipas
+# Análise dos dados de leitos nos municípios de Goiás
 
 Manter e gerar um número suficiente de leitos para atender pacientes vítimas da COVID-19 é um desafio constante para os estados brasileiros. A pandemia trouxe consigo uma série de problemas, incluindo aumento no número de casos e hospitalizações, além da necessidade de adaptação rápida das estruturas de saúde.
 
